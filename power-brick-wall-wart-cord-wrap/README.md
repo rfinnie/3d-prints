@@ -1,0 +1,7 @@
+# Power brick / wall wart cord wrap
+
+## License
+
+Copyright (C) 2020 Ryan Finnie
+
+This work is licensed under a [Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0) license](https://creativecommons.org/licenses/by-sa/4.0/).
