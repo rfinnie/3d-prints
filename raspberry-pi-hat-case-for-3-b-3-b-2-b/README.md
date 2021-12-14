@@ -1,5 +1,16 @@
 # Raspberry Pi HAT case for 3 B+ / 3 B / 2 B
 
+This is a remix of a low-profile Raspberry Pi case, with a few options specifically for HATs.
+
+  - v4\_bottom - Same base as source thing.
+  - v4\_top - Same top as source thing. Only the lowest-profile heatsinks will work with this, but has a decorative mostly-enclosed top.
+  - v4\_top\_minimal - Same as v4\_top but with most of the enclosed top removed. Good for using with heatsinks, or HATs which have some underside protrustions.
+  - v4\_flush\_top\_minimal - Same as v4\_top\_minimal, but 3mm taller. This makes the top of the case flush with standard size HATs (see photo).
+
+Underside wood screws are required to join the bottom and top layers, either flat M2.5 x 10mm, or flat \#4 x 3/8". There are holes on the top as well if you need to secure the HAT, but (especially on the flush variant) it's not required.
+
+[Tinkercad source](https://www.tinkercad.com/things/4lYpKXYzUsF-raspberrypi3bcase-modded-top)
+
 ## License
 
 Copyright (C) 2021 Ryan Finnie

@@ -1,5 +1,15 @@
 # Tyco Rebound 4x4 RC battery cover
 
+The "standard" STL is a dimensionally accurate recreation of the battery cover, but the problem is at 1.6mm wide, the upright door is too fragile to be pushed in to open/close repeatedly, and will quickly snap.
+
+After some experimentation, I've also made a version with a strengthened door which is tougher, but still has enough give so you can push in to open/close. (This version also has an easter egg under the door.)
+
+Print at 100% infill (infill reduction on these models save almost no filament, but will reduce strength), no supports needed.
+
+The pictures depict the strengthened version, but with part of the door removed to facilitate a battery mod I'm working on.
+
+[Tinkercad source](https://www.tinkercad.com/things/5HSkixlT86j-tyco-rebound-battery-cover)
+
 ## License
 
 Copyright (C) 2021 Ryan Finnie
