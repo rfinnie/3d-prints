@@ -5,8 +5,8 @@ A simple but pleasing design to store Super Nintendo Entertainment System / Supe
 # Links
 
   - [Tinkercad source](https://www.tinkercad.com/things/dFE6OiZuVS8-snes-cartridge-to-vhs-clamshell-case-adapter)
-  - [PrusaPrinters]()
-  - [Thingiverse]()
+  - [Printables](https://www.printables.com/model/278684-snes-cartridge-to-vhs-clamshell-case-adapter)
+  - [Thingiverse](https://www.thingiverse.com/thing:5519431)
 
 ## License
 

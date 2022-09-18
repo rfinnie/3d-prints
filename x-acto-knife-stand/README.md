@@ -6,7 +6,11 @@ The inner blade cavity is at an angle, but supports are not needed.
 
 The decorative outer angles and top can be a bit ugly at 0.15, but are perfectly functional. Go down to 0.10 for a more clean appearance.
 
-[Tinkercad source](https://www.tinkercad.com/things/cPkvK41inME-x-acto-knife-stand)
+# Links
+
+  - [Tinkercad source](https://www.tinkercad.com/things/cPkvK41inME-x-acto-knife-stand)
+  - [Printables](https://www.printables.com/model/80830-x-acto-knife-stand)
+  - [Thingiverse](https://www.thingiverse.com/thing:3531597)
 
 ## License
 

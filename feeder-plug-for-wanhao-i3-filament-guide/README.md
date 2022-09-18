@@ -4,7 +4,11 @@ The [Wanhao I3 Filament Guide for Top Spool Holder](https://www.thingiverse.com/
 
 Insert the filament through the side of the plug, then insert the plug into the arm guide hole, with the plug's side opening on the opposite side of the guide hole's side opening. The plug will be very tight within the guide hole (this is good\!); pull the plug hole apart slightly while inserting if necessary.
 
-[Tinkercad source](https://www.tinkercad.com/things/53eQMHFALxq-feeder-plug-for-wanhao-i3-filament-guide)
+# Links
+
+  - [Tinkercad source](https://www.tinkercad.com/things/53eQMHFALxq-feeder-plug-for-wanhao-i3-filament-guide)
+  - [Printables](https://www.printables.com/model/80831-feeder-plug-for-wanhao-i3-filament-guide)
+  - [Thingiverse](https://www.thingiverse.com/thing:3527478)
 
 ## License
 

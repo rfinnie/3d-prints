@@ -6,7 +6,11 @@ The unified design is recommended as it supports both horizontal and vertical br
 
 This was roughly inspired by a [EU design for a specific power brick](https://www.thingiverse.com/thing:4586428), but is otherwise unrelated.
 
-[Tinkercad source](https://www.tinkercad.com/things/c9BugfH7LjF-power-brick-wall-wart-cord-wrap)
+# Links
+
+  - [Tinkercad source](https://www.tinkercad.com/things/c9BugfH7LjF-power-brick-wall-wart-cord-wrap)
+  - [Printables](https://www.printables.com/model/80828-power-brick-wall-wart-cord-wrap)
+  - [Thingiverse](https://www.thingiverse.com/thing:4631512)
 
 ## License
 

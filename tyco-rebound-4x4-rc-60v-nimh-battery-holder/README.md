@@ -5,7 +5,11 @@ This battery sled replaces the standard spring-loaded "6.0v JET TURBO" NiCD batt
   - The connector leads outside the battery bay. You could snap off part of the original battery door but I do have [a 3D printed replica battery door](https://www.thingiverse.com/thing:4830268) also available.
   - Because of this, you'll also need to get the connector to mate up with the internal PCB. I actually replaced the original Tyco PCB with a modern 2.4GHz toy's PCB ("[OYE HOYE LED RC Stunt Cars for Kids](https://www.amazon.com/gp/product/B07WBYL8XL)" on Amazon, but other clones will probably be the same), so I was able to route the battery connector through what used to be the hole for the power switch.
 
-[Tinkercad source](https://www.tinkercad.com/things/4la1YBtw6Vw-tyco-rebound-battery-holder)
+# Links
+
+  - [Tinkercad source](https://www.tinkercad.com/things/4la1YBtw6Vw-tyco-rebound-battery-holder)
+  - [Printables](https://www.printables.com/model/80824-tyco-rebound-4x4-rc-60v-nimh-battery-holder)
+  - [Thingiverse](https://www.thingiverse.com/thing:4831570)
 
 ## License
 

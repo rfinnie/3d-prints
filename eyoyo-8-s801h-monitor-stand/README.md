@@ -7,7 +7,11 @@ This is similar to [another Eyoyo 8" 4x3 monitor stand](https://www.thingiverse.
   - Cable hole large enough to fit a VGA or HDMI cable through
   - Tie-down hole for Velcro/ziptie loop for keeping cables secure
 
-[Tinkercad source](https://www.tinkercad.com/things/0YmQ9dID8Cg-eyoyo-s801h-stand)
+# Links
+
+  - [Tinkercad source](https://www.tinkercad.com/things/0YmQ9dID8Cg-eyoyo-s801h-stand)
+  - [Printables](https://www.printables.com/model/80822-eyoyo-8-s801h-monitor-stand)
+  - [Thingiverse](https://www.thingiverse.com/thing:4975238)
 
 ## License
 

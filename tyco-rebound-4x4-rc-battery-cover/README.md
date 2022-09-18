@@ -8,7 +8,11 @@ Print at 100% infill (infill reduction on these models save almost no filament, 
 
 The pictures depict the strengthened version, but with part of the door removed to facilitate a battery mod I'm working on.
 
-[Tinkercad source](https://www.tinkercad.com/things/5HSkixlT86j-tyco-rebound-battery-cover)
+# Links
+
+  - [Tinkercad source](https://www.tinkercad.com/things/5HSkixlT86j-tyco-rebound-battery-cover)
+  - [Printables](https://www.printables.com/model/80825-tyco-rebound-4x4-rc-battery-cover)
+  - [Thingiverse](https://www.thingiverse.com/thing:4830268)
 
 ## License
 

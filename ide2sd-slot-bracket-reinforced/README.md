@@ -1,6 +1,6 @@
 # Reinforced PCI / ISA Slot Bracket for IDE 40pin to SD adapter
 
-Remixed from "PCI / ISA Slot Bracket for IDE 40pin to SD adapter", this adds the following enhancements:
+Remixed from "[PCI / ISA Slot Bracket for IDE 40pin to SD adapter](https://www.thingiverse.com/thing:3543297)", this adds the following enhancements:
 
   - Thicker triangle areas along the bracket so stress from inserting/removing the SD card doesn't flex the bracket as much.
   - Enclosed bracket screw hole, no standalone small tab to break on top.
@@ -12,7 +12,11 @@ Printing notes:
   - It's possible the bottom tab may be too long in certain conditions. If so, just use tin snips or similar to cut the tab down to size.
   - For mounting the IDE2SD card, I personally enlarge the printed mounting holes using a 7/64" drill bit, and screw them in with standard coarse-thread machine PC screws. It's possible to screw in without pre-drilling, but takes a lot of force.
 
-[Tinkercad source](https://www.tinkercad.com/things/jNxk8dvNXmp-ide2sd-bracket-486)
+# Links
+
+  - [Tinkercad source](https://www.tinkercad.com/things/jNxk8dvNXmp-ide2sd-bracket-486)
+  - [Printables](https://www.printables.com/model/80827-reinforced-pci-isa-slot-bracket-for-ide-40pin-to-s)
+  - [Thingiverse](https://www.thingiverse.com/thing:4686963)
 
 ## License
 

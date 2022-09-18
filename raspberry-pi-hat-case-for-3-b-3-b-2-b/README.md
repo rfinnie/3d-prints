@@ -9,7 +9,11 @@ This is a remix of a low-profile Raspberry Pi case, with a few options specifica
 
 Underside wood screws are required to join the bottom and top layers, either flat M2.5 x 10mm, or flat \#4 x 3/8". There are holes on the top as well if you need to secure the HAT, but (especially on the flush variant) it's not required.
 
-[Tinkercad source](https://www.tinkercad.com/things/4lYpKXYzUsF-raspberrypi3bcase-modded-top)
+# Links
+
+  - [Tinkercad source](https://www.tinkercad.com/things/4lYpKXYzUsF-raspberrypi3bcase-modded-top)
+  - [Printables](https://www.printables.com/model/80826-raspberry-pi-hat-case-for-3-b-3-b-2-b)
+  - [Thingiverse](https://www.thingiverse.com/thing:4821708)
 
 ## License
 

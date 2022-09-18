@@ -9,7 +9,7 @@ BTW, the photos are of a regular Nintendo Switch Pro Controller, just with an af
 # Links
 
   - [Tinkercad source](https://www.tinkercad.com/things/640wRWMHy0u-ender-3-v2-fan-assembly)
-  - [PrusaPrinters](https://www.prusaprinters.org/prints/136856-nintendo-switch-pro-controller-low-profile-thumb-s)
+  - [Printables](https://www.printables.com/model/136856-nintendo-switch-pro-controller-low-profile-thumb-s)
   - [Thingiverse](https://www.thingiverse.com/thing:5255288)
 
 ## License

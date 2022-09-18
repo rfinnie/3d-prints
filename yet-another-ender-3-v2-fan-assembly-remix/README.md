@@ -8,7 +8,11 @@ Posted as a remix for a commenter on [my make](https://www.thingiverse.com/make:
 
 Also included are modified \#6 and \#8 variants of [these BLTouch shrouds](https://www.thingiverse.com/thing:4634422) but with M3 nut holes cut out, as seen in the photo above.
 
-[Tinkercad source](https://www.tinkercad.com/things/640wRWMHy0u-ender-3-v2-fan-assembly)
+# Links
+
+  - [Tinkercad source](https://www.tinkercad.com/things/640wRWMHy0u-ender-3-v2-fan-assembly)
+  - [Printables](https://www.printables.com/model/80823-yet-another-ender-3-v2-fan-assembly-remix-satsana-)
+  - [Thingiverse](https://www.thingiverse.com/thing:4873151)
 
 ## License
 
